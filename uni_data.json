@@ -1,0 +1,85 @@
+{
+   "university_info": {
+    "question": "What is the name of the university?",
+    "answer": "National Institute of Technology Nepal"
+  },
+
+  "admissions": {
+    "undergraduate": {
+      "question": "What are the requirements for undergraduate admission?",
+      "answer": "Students must complete higher secondary education with minimum GPA requirements."
+    },
+
+    "postgraduate": {
+      "question": "What are the requirements for postgraduate admission?",
+      "answer": "Students must complete a bachelor's degree in a related field."
+    }
+  },
+
+  "departments": {
+    "computer_science": {
+      "faculty_head": {
+        "question": "Who is the head of Computer Science department?",
+        "answer": "Dr. Ram Sharma"
+      },
+
+      "courses": [
+        {
+          "question": "What programming languages are taught in Computer Science?",
+          "answer": "Python, Java, JavaScript, and C++ are taught."
+        },
+
+        {
+          "question": "Does Computer Science include AI subjects?",
+          "answer": "Yes, AI and Machine Learning subjects are included."
+        }
+      ]
+    },
+
+    "business": {
+      "question": "What programs are available in Business department?",
+      "answer": "BBA, MBA, and Finance programs are available."
+    }
+  },
+
+  "facilities": [
+    {
+      "question": "Does the university provide hostel facilities?",
+      "answer": "Yes, separate hostel facilities are available for boys and girls."
+    },
+
+    {
+      "question": "Is there a library in the university?",
+      "answer": "Yes, the university has a digital and physical library."
+    },
+
+    {
+      "question": "Does the university provide transportation?",
+      "answer": "Yes, transportation services are available in major city areas."
+    }
+  ],
+
+  "scholarships": {
+    "government": {
+      "question": "Are government scholarships available?",
+      "answer": "Yes, merit-based government scholarships are available."
+    },
+
+    "international": {
+      "question": "Are international scholarships available?",
+      "answer": "Yes, selected students can apply for international exchange scholarships."
+    }
+  },
+
+  "contact": {
+    "email": {
+      "question": "What is the university contact email?",
+      "answer": "info@nitnepal.edu"
+    },
+
+    "phone": {
+      "question": "What is the university phone number?",
+      "answer": "+977-1-5555555"
+    }
+  }
+}
